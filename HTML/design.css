@@ -36,6 +36,31 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.text-font-size-light
+{
+    font-size: 90%;
+}
+
+.text-font-size-medium
+{
+    font-size: 120%;
+}
+
+.text-font-size-large
+{
+    font-size: 150%;
+}
+
+.text-font-size-larger
+{
+    font-size: 165%;
+}
+
+.text-font-size-extreme
+{
+    font-size: 180%;
+}
+
 /* 
     This will be the alignment position of the html
 */
@@ -53,4 +78,56 @@
 .text-left
 {
     text-align: left;
+}
+
+/* this will be the color design */
+
+.text-color-white
+{
+    color: white;
+}
+
+.text-color-black
+{
+    color: black;
+}
+
+.text-color-gray
+{
+    color:gray;
+}
+
+.text-color-blue
+{
+    color: blue;    
+}
+
+.text-color-red
+{
+    color: red;
+}
+
+.background-color-white
+{
+    background-color: white;
+}
+
+.background-color-black
+{
+    background-color: black;
+}
+
+.background-color-gray
+{
+    background-color: gray;
+}
+
+.background-color-blue
+{
+    background-color: blue;
+}
+
+.background-color-red
+{
+    background-color: red;
 }

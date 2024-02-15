@@ -1,6 +1,1 @@
-var x = document.getElementById(fLetter);
-
-function myFunction()
-{
-    x.innerHTML = "none!";
-}
+function myFunction() { document.getElementById("xx").innerHTML += "1" };

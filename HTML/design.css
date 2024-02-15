@@ -1,0 +1,56 @@
+
+/* default font styles */
+
+.text-bold 
+{
+    font-weight: bold;
+} 
+
+.text-bolder
+{
+    font-weight:bold;;
+}
+
+.text-light
+{
+    font-weight:lighter;
+}
+
+.text-italic
+{
+    font-weight: italic;
+}
+
+.text-font-normal
+{
+    font-family: consolas;
+}
+
+.text-font-new-roman
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text-font-arial
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 
+    This will be the alignment position of the html
+*/
+
+.text-right
+{
+    text-align: right;
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.text-left
+{
+    text-align: left;
+}
